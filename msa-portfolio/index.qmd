@@ -1,0 +1,43 @@
+---
+title: "MSA | Scientific Analytics"
+title-block-banner: false
+---
+
+::: {.hero}
+::: {.hero-inner}
+<div class="eyebrow">ENVIRONMENTAL · GEOSPATIAL · DATA SCIENCE</div>
+<h1>Scientific insight.<br><em>Practical impact.</em></h1>
+<p class="hero-lead">Data analysis, geospatial intelligence and scientific solutions for Earth and environmental sciences.</p>
+<div class="actions"><a class="cta primary" href="projects.qmd">Explore Projects ↗</a><a class="cta secondary" href="services.qmd">Our Services</a></div>
+<p class="hero-note">Research-led · Reproducible · Evidence-based</p>
+:::
+<div class="hero-art" aria-hidden="true"><svg viewBox="0 0 530 410" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="285" cy="198" r="153" stroke="#91B7AA" opacity=".45"/><circle cx="285" cy="198" r="114" stroke="#91B7AA" opacity=".3"/><circle cx="285" cy="198" r="76" stroke="#91B7AA" opacity=".3"/><path d="M35 292C120 210 159 346 240 230S375 120 498 82" stroke="#4E8F7A" stroke-width="2.5"/><path d="M19 322C104 240 175 365 260 257S385 153 517 112" stroke="#7DA6B3" stroke-width="1.5"/><path d="M30 360C125 294 178 390 288 289S414 188 519 153" stroke="#91B7AA" stroke-width="1.5"/><circle cx="241" cy="229" r="8" fill="#4E8F7A"/><circle cx="370" cy="146" r="5" fill="#7DA6B3"/></svg></div>
+:::
+
+::: {.section-wrap}
+<div class="section-label">01 / EXPERTISE</div>
+<h2>Where science meets analytics.</h2>
+<p class="section-intro">Specialized services combining environmental science, spatial analysis, and reproducible computational methods.</p>
+<div class="feature-grid">
+  <a class="feature" href="services.qmd"><span class="feature-id">01</span><h3>Data Analytics</h3><p>Exploratory statistics, multivariate analysis, modeling and quality control.</p><span class="feature-link">Discover more ↗</span></a>
+  <a class="feature" href="services.qmd"><span class="feature-id">02</span><h3>Geospatial Analysis</h3><p>GIS workflows, thematic mapping, spatial data integration and visualization.</p><span class="feature-link">Discover more ↗</span></a>
+  <a class="feature" href="services.qmd"><span class="feature-id">03</span><h3>Environmental Science</h3><p>Geochemistry, river systems, sediments and environmental monitoring.</p><span class="feature-link">Discover more ↗</span></a>
+  <a class="feature" href="services.qmd"><span class="feature-id">04</span><h3>Scientific Consulting</h3><p>Technical reviews, research methods, scientific figures and reporting.</p><span class="feature-link">Discover more ↗</span></a>
+</div>
+:::
+
+::: {.section-wrap .projects-preview}
+<div class="section-label">02 / SELECTED WORK</div>
+<h2>Research made visible.</h2>
+<p class="section-intro">Selected portfolio directions. Public demonstrations and reproducible case studies are being prepared.</p>
+<div class="project-grid">
+  <div class="project-card"><div class="project-art art-one"><span>01 / DATA</span><div class="art-bars"><i></i><i></i><i></i><i></i><i></i><i></i></div></div><div class="project-copy"><span class="project-type">R · PYTHON · STATISTICS</span><h3>Geochemical Data Analytics</h3><p>Multivariate methods and background assessment for environmental datasets.</p><span class="coming-soon">Case study in preparation</span></div></div>
+  <div class="project-card"><div class="project-art art-two"><span>02 / SPACE</span><svg viewBox="0 0 290 140"><path d="M0 70 Q45 5 95 62 T190 62 T290 25M0 95 Q45 30 95 87 T190 87 T290 50M0 120 Q45 55 95 112 T190 112 T290 75" fill="none" stroke="#9dd0c0" stroke-width="2"/></svg></div><div class="project-copy"><span class="project-type">GIS · PYTHON · MAPPING</span><h3>Geospatial Mapping</h3><p>Spatial workflows and scientific cartography for environmental applications.</p><span class="coming-soon">Case study in preparation</span></div></div>
+  <div class="project-card"><div class="project-art art-three"><span>03 / VISUALIZE</span><svg viewBox="0 0 290 140"><polyline points="15,105 57,82 95,93 135,50 175,64 219,20 270,44" fill="none" stroke="#c5e4dd" stroke-width="3"/><polyline points="15,119 57,100 95,112 135,83 175,90 219,61 270,68" fill="none" stroke="#5c9a96" stroke-width="2"/></svg></div><div class="project-copy"><span class="project-type">PYTHON · PLOTLY · STREAMLIT</span><h3>Monitoring Dashboard</h3><p>Interactive approaches to environmental indicators and data exploration.</p><span class="coming-soon">Prototype in preparation</span></div></div>
+</div>
+:::
+
+::: {.contact-band}
+<div><div class="section-label">03 / COLLABORATE</div><h2>Have a data challenge?</h2><p>Let's explore how scientific analysis and reproducible tools can support your next project.</p></div>
+<a class="cta primary" href="https://github.com/luciocmf88">Connect on GitHub ↗</a>
+:::

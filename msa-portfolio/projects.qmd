@@ -1,0 +1,18 @@
+---
+title: "Projects"
+---
+
+::: {.page-heading}
+<div class="section-label">SELECTED WORK / PORTFOLIO</div>
+<h1>Projects.</h1>
+<p>Transparent methods, reproducible workflows and applied data science. These projects are a development roadmap, not yet published case studies.</p>
+:::
+
+::: {.section-wrap}
+<div class="feature-grid">
+<div class="feature"><span class="feature-id">01 / IN PREPARATION</span><h3>Geochemical Data Analytics</h3><p>Robust statistics, compositional data analysis, PCA and background assessment. Planned stack: R, Python and Quarto.</p></div>
+<div class="feature"><span class="feature-id">02 / IN PREPARATION</span><h3>Geospatial Mapping</h3><p>GIS processing, spatial joins, thematic mapping and environmental datasets. Planned stack: GeoPandas and QGIS.</p></div>
+<div class="feature"><span class="feature-id">03 / IN PREPARATION</span><h3>Environmental Monitoring Dashboard</h3><p>Interactive visualization for water, soil or sediment data. Planned stack: Streamlit and Plotly.</p></div>
+</div>
+<p class="footnote">Only openly licensed, synthetic or explicitly authorized data and code will be published.</p>
+:::

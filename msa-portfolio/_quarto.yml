@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "MSA | Scientific Analytics"
+  site-url: "https://luciocmf88.github.io/msa-portfolio/"
+  favicon: assets/logo/favicon.svg
+  navbar:
+    logo: assets/logo/msa-mark.svg
+    title: false
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Services
+        href: services.qmd
+      - text: About
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/luciocmf88
+  page-footer:
+    left: "© 2026 MSA · Scientific Analytics"
+    right: "Research · Data Science · Geospatial Solutions"
+  search: false
+format:
+  html:
+    theme: cosmo
+    css: assets/css/styles.css
+    toc: false
+    page-layout: full
+    grid:
+      body-width: 1150px
+      margin-width: 0px

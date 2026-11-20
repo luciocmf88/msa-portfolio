@@ -1,0 +1,18 @@
+---
+title: "About"
+---
+
+::: {.page-heading}
+<div class="section-label">ABOUT MSA</div>
+<h1>Scientific foundations.<br>Computational perspective.</h1>
+<p>MSA — Scientific Analytics is the professional portfolio of Lucio Medeiros, bringing together scientific research, quantitative analysis, geospatial workflows and technical consulting.</p>
+:::
+
+::: {.section-wrap}
+<div class="feature-grid">
+<div class="feature"><span class="feature-id">BACKGROUND</span><h3>Earth & Environmental Sciences</h3><p>Interdisciplinary training across oceanography, environmental engineering, geology and geochemistry.</p></div>
+<div class="feature"><span class="feature-id">METHODS</span><h3>Data & Spatial Analysis</h3><p>Environmental data interpretation, GIS and reproducible R/Python workflows.</p></div>
+<div class="feature"><span class="feature-id">APPROACH</span><h3>Evidence First</h3><p>Clear methods, transparent assumptions, uncertainty assessment and decision support.</p></div>
+</div>
+<p class="footnote">Full institutional name: Medeiros Scientific Analytics.</p>
+:::

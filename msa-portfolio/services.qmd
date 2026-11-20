@@ -1,0 +1,20 @@
+---
+title: "Services"
+---
+
+::: {.page-heading}
+<div class="section-label">SCIENTIFIC & TECHNICAL SERVICES</div>
+<h1>Services.</h1>
+<p>Analytical support for researchers, consultancies and organizations working with complex environmental and geospatial data.</p>
+:::
+
+::: {.section-wrap}
+<div class="feature-grid">
+<div class="feature"><span class="feature-id">01</span><h3>Statistical Analysis</h3><p>Exploratory analysis, multivariate statistics, uncertainty estimation and interpretation.</p></div>
+<div class="feature"><span class="feature-id">02</span><h3>Data Visualization</h3><p>Publication-ready figures, interactive dashboards and scientific communication.</p></div>
+<div class="feature"><span class="feature-id">03</span><h3>Geospatial Workflows</h3><p>GIS analysis, map production, spatial data cleaning and integration.</p></div>
+<div class="feature"><span class="feature-id">04</span><h3>Scientific & Technical Review</h3><p>Methods, data reporting, manuscript structure and reproducibility-focused feedback.</p></div>
+<div class="feature"><span class="feature-id">05</span><h3>Data Processing & Automation</h3><p>Reusable Python/R scripts, large dataset processing and QA workflows.</p></div>
+<div class="feature"><span class="feature-id">06</span><h3>Research Support</h3><p>Analytical planning, environmental data interpretation and reporting.</p></div>
+</div>
+:::
